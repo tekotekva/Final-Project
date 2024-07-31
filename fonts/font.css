@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Rufina';
+    src: url('../Rufina-Bold.eot');
+    src: url('../Rufina-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../Rufina-Bold.woff2') format('woff2'),
+        url('../Rufina-Bold.woff') format('woff'),
+        url('../Rufina-Bold.ttf') format('truetype'),
+        url('../Rufina-Bold.svg#Rufina-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
